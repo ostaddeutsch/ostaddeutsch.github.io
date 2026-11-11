@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ostaddeutsch.github.io/sitemap.xml
