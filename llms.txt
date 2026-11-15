@@ -21,7 +21,6 @@
 - [۱۲ اشتباه رایج فارسی‌زبان‌ها در آلمانی](https://ostaddeutsch.github.io/eshtebahat-raij-almani.html): رایج‌ترین اشتباه‌های ایرانی‌ها در جمله‌های آلمانی: haben یا sein، جای فعل، آرتیکل و حرف اضافه؛ هر کدام با شکل درست و دلیل به فارسی.
 - [لغات آلمانی سطح A1 با معنی فارسی](https://ostaddeutsch.github.io/vocab-a1.html): فهرست ۱۹۲ لغت آلمانی سطح A1 با معنی فارسی و آرتیکل، دسته‌بندی‌شده بر اساس موضوع‌های آزمون گوته A1.
 - [لغات آلمانی سطح A2 با معنی فارسی](https://ostaddeutsch.github.io/vocab-a2.html): فهرست ۱۹۲ لغت آلمانی سطح A2 با معنی فارسی و آرتیکل، دسته‌بندی‌شده بر اساس موضوع‌های آزمون گوته A2.
-- [لغات آلمانی سطح B1 با معنی فارسی](https://ostaddeutsch.github.io/vocab-b1.html): فهرست ۱۹۲ لغت آلمانی سطح B1 با معنی فارسی و آرتیکل، دسته‌بندی‌شده بر اساس موضوع‌های آزمون گوته B1.
 
 ## Lessons
 
@@ -73,30 +72,6 @@
 - [درخواست و توصیه — درس 22 آلمانی سطح A2](https://ostaddeutsch.github.io/a2-22-bitten-und-ratschlaege.html): درس 22 آلمانی سطح A2: درخواست و توصیه. لغات، گرامر (sollte, könnte) و مثال با توضیح فارسی برای آزمون گوته.
 - [نوشتن نامه و پیام — درس 23 آلمانی سطح A2](https://ostaddeutsch.github.io/a2-23-briefe-und-nachrichten-schreiben.html): درس 23 آلمانی سطح A2: نوشتن نامه و پیام. لغات، گرامر (Konnektoren: denn, aber, sondern) و مثال با توضیح فارسی برای آزمون گوته.
 - [مرور + ترفندهای آزمون A2 — درس 24 آلمانی سطح A2](https://ostaddeutsch.github.io/a2-24-wiederholung-goethe-a2-strategien.html): درس 24 آلمانی سطح A2: مرور + ترفندهای آزمون A2. لغات، گرامر (Gesamtwiederholung) و مثال با توضیح فارسی برای آزمون گوته.
-- [زندگی در آلمان – قدم‌های اول — درس 1 آلمانی سطح B1](https://ostaddeutsch.github.io/b1-01-leben-in-deutschland-erste-schritte.html): درس 1 آلمانی سطح B1: زندگی در آلمان – قدم‌های اول. لغات، گرامر (Plusquamperfekt) و مثال با توضیح فارسی برای آزمون گوته.
-- [کاریابی و درخواست کار — درس 2 آلمانی سطح B1](https://ostaddeutsch.github.io/b1-02-arbeitssuche-und-bewerbung.html): درس 2 آلمانی سطح B1: کاریابی و درخواست کار. لغات، گرامر (Relativsätze mit Präpositionen) و مثال با توضیح فارسی برای آزمون گوته.
-- [مصاحبه کاری — درس 3 آلمانی سطح B1](https://ostaddeutsch.github.io/b1-03-vorstellungsgespraech.html): درس 3 آلمانی سطح B1: مصاحبه کاری. لغات، گرامر (Konjunktiv II Vergangenheit) و مثال با توضیح فارسی برای آزمون گوته.
-- [ارتباط در محل کار — درس 4 آلمانی سطح B1](https://ostaddeutsch.github.io/b1-04-am-arbeitsplatz-kommunizieren.html): درس 4 آلمانی سطح B1: ارتباط در محل کار. لغات، گرامر (Passiv mit Modalverben) و مثال با توضیح فارسی برای آزمون گوته.
-- [سکونت و قرارداد اجاره — درس 5 آلمانی سطح B1](https://ostaddeutsch.github.io/b1-05-wohnen-und-mietvertrag.html): درس 5 آلمانی سطح B1: سکونت و قرارداد اجاره. لغات، گرامر (Genitiv und Präpositionen mit Genitiv) و مثال با توضیح فارسی برای آزمون گوته.
-- [نظام سلامت و بیمه — درس 6 آلمانی سطح B1](https://ostaddeutsch.github.io/b1-06-gesundheitssystem-und-versicherung.html): درس 6 آلمانی سطح B1: نظام سلامت و بیمه. لغات، گرامر (je … desto) و مثال با توضیح فارسی برای آزمون گوته.
-- [نظام آموزشی و تحصیل — درس 7 آلمانی سطح B1](https://ostaddeutsch.github.io/b1-07-bildungssystem-und-studium.html): درس 7 آلمانی سطح B1: نظام آموزشی و تحصیل. لغات، گرامر (Finalsätze damit / um … zu) و مثال با توضیح فارسی برای آزمون گوته.
-- [رسانه و اخبار — درس 8 آلمانی سطح B1](https://ostaddeutsch.github.io/b1-08-medien-und-nachrichten.html): درس 8 آلمانی سطح B1: رسانه و اخبار. لغات، گرامر (Indirekte Rede (Einführung)) و مثال با توضیح فارسی برای آزمون گوته.
-- [محیط زیست و پایداری — درس 9 آلمانی سطح B1](https://ostaddeutsch.github.io/b1-09-umwelt-und-nachhaltigkeit.html): درس 9 آلمانی سطح B1: محیط زیست و پایداری. لغات، گرامر (Zweiteilige Konnektoren (sowohl … als auch)) و مثال با توضیح فارسی برای آزمون گوته.
-- [مصرف و تبلیغات — درس 10 آلمانی سطح B1](https://ostaddeutsch.github.io/b1-10-konsum-und-werbung.html): درس 10 آلمانی سطح B1: مصرف و تبلیغات. لغات، گرامر (Partizip I und II als Adjektiv) و مثال با توضیح فارسی برای آزمون گوته.
-- [سفر و جابه‌جایی — درس 11 آلمانی سطح B1](https://ostaddeutsch.github.io/b1-11-reisen-und-mobilitaet.html): درس 11 آلمانی سطح B1: سفر و جابه‌جایی. لغات، گرامر (Temporale Konnektoren: bevor, nachdem, während) و مثال با توضیح فارسی برای آزمون گوته.
-- [دوستی و روابط — درس 12 آلمانی سطح B1](https://ostaddeutsch.github.io/b1-12-freundschaft-und-beziehungen.html): درس 12 آلمانی سطح B1: دوستی و روابط. لغات، گرامر (Reflexivpronomen im Dativ) و مثال با توضیح فارسی برای آزمون گوته.
-- [فرهنگ و ادغام اجتماعی — درس 13 آلمانی سطح B1](https://ostaddeutsch.github.io/b1-13-kultur-und-integration.html): درس 13 آلمانی سطح B1: فرهنگ و ادغام اجتماعی. لغات، گرامر (Nominalisierung) و مثال با توضیح فارسی برای آزمون گوته.
-- [سیاست و جامعه — درس 14 آلمانی سطح B1](https://ostaddeutsch.github.io/b1-14-politik-und-gesellschaft.html): درس 14 آلمانی سطح B1: سیاست و جامعه. لغات، گرامر (Passiv Präteritum und Perfekt) و مثال با توضیح فارسی برای آزمون گوته.
-- [فناوری و دیجیتالی شدن — درس 15 آلمانی سطح B1](https://ostaddeutsch.github.io/b1-15-technik-und-digitalisierung.html): درس 15 آلمانی سطح B1: فناوری و دیجیتالی شدن. لغات، گرامر (Futur I, Vermutungen) و مثال با توضیح فارسی برای آزمون گوته.
-- [پول و امور مالی — درس 16 آلمانی سطح B1](https://ostaddeutsch.github.io/b1-16-geld-und-finanzen.html): درس 16 آلمانی سطح B1: پول و امور مالی. لغات، گرامر (Konzessive Sätze: obwohl, trotz) و مثال با توضیح فارسی برای آزمون گوته.
-- [نوشتن شکایت رسمی — درس 17 آلمانی سطح B1](https://ostaddeutsch.github.io/b1-17-beschwerden-formulieren.html): درس 17 آلمانی سطح B1: نوشتن شکایت رسمی. لغات، گرامر (Formelle Briefe, Redemittel) و مثال با توضیح فارسی برای آزمون گوته.
-- [بحث و استدلال — درس 18 آلمانی سطح B1](https://ostaddeutsch.github.io/b1-18-diskutieren-und-argumentieren.html): درس 18 آلمانی سطح B1: بحث و استدلال. لغات، گرامر (Redemittel: einerseits … andererseits) و مثال با توضیح فارسی برای آزمون گوته.
-- [ارائه دادن — درس 19 آلمانی سطح B1](https://ostaddeutsch.github.io/b1-19-einen-vortrag-halten.html): درس 19 آلمانی سطح B1: ارائه دادن. لغات، گرامر (Strukturierung: zuerst, außerdem, zum Schluss) و مثال با توضیح فارسی برای آزمون گوته.
-- [یادگیری زبان — درس 20 آلمانی سطح B1](https://ostaddeutsch.github.io/b1-20-sprachen-lernen.html): درس 20 آلمانی سطح B1: یادگیری زبان. لغات، گرامر (Modalpartikeln: doch, mal, ja) و مثال با توضیح فارسی برای آزمون گوته.
-- [کار داوطلبانه و مشارکت اجتماعی — درس 21 آلمانی سطح B1](https://ostaddeutsch.github.io/b1-21-ehrenamt-und-engagement.html): درس 21 آلمانی سطح B1: کار داوطلبانه و مشارکت اجتماعی. لغات، گرامر (Adjektive mit Präpositionen) و مثال با توضیح فارسی برای آزمون گوته.
-- [برنامه‌های آینده — درس 22 آلمانی سطح B1](https://ostaddeutsch.github.io/b1-22-zukunftsplaene.html): درس 22 آلمانی سطح B1: برنامه‌های آینده. لغات، گرامر (werden + Infinitiv, Wunschsätze) و مثال با توضیح فارسی برای آزمون گوته.
-- [تمرین فشرده نوشتن و گفتار B1 — درس 23 آلمانی سطح B1](https://ostaddeutsch.github.io/b1-23-goethe-b1-schreiben-sprechen-intensiv.html): درس 23 آلمانی سطح B1: تمرین فشرده نوشتن و گفتار B1. لغات، گرامر (Redemittel für Prüfung) و مثال با توضیح فارسی برای آزمون گوته.
-- [مرور + ترفندهای آزمون B1 — درس 24 آلمانی سطح B1](https://ostaddeutsch.github.io/b1-24-wiederholung-goethe-b1-strategien.html): درس 24 آلمانی سطح B1: مرور + ترفندهای آزمون B1. لغات، گرامر (Gesamtwiederholung) و مثال با توضیح فارسی برای آزمون گوته.
 
 ## Migration to Germany
 
