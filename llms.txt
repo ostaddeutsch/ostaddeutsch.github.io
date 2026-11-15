@@ -119,3 +119,5 @@
 - [آموزش آلمانی سطح A1](https://ostaddeutsch.github.io/level-a1.html): 24 درس رایگان آلمانی سطح A1 برای فارسی‌زبان‌ها: لغات، گرامر و مثال با توضیح فارسی، هماهنگ با آزمون گوته A1.
 - [آموزش آلمانی سطح A2](https://ostaddeutsch.github.io/level-a2.html): 24 درس رایگان آلمانی سطح A2 برای فارسی‌زبان‌ها: لغات، گرامر و مثال با توضیح فارسی، هماهنگ با آزمون گوته A2.
 - [آموزش آلمانی سطح B1](https://ostaddeutsch.github.io/level-b1.html): 24 درس رایگان آلمانی سطح B1 برای فارسی‌زبان‌ها: لغات، گرامر و مثال با توضیح فارسی، هماهنگ با آزمون گوته B1.
+- [Privacy Policy](https://ostaddeutsch.github.io/privacy.html): Privacy policy of Ostad Deutsch (استاد دویچ): what data the Telegram bot, website, Instagram and YouTube channel process, why, and how to have it deleted.
+- [Terms of Service](https://ostaddeutsch.github.io/terms.html): Terms of service of Ostad Deutsch (استاد دویچ): educational use, subscriptions with Telegram Stars, AI corrections, and the limits of the migration guides.
